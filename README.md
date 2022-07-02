@@ -1,3 +1,3 @@
 # Omnifood-RWD
 
-![preivew](./Omnifood.png)
+![preivew](./omnifood.png)
